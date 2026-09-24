@@ -1,0 +1,13 @@
+{
+  "name": "hbtn-devops-pipeline-lab",
+  "version": "1.0.0",
+  "description": "Dockerized Node.js app for DevOps pipeline",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "express": "^4.18.2"
+  }
+}
